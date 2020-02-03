@@ -1,8 +1,8 @@
-# CI Admin Starter (CIAS) 2
+# Tryout Online
 
 ### Description
+Aplikasi ini merupakan aplikasi ujian online yang memiliki dua akun guru berwenang untuk manajemen soal dan siswa berwenang untuk mengerjakan dan melihat nilai hasil jawaban
 
-CIAS2 is another version of CIAS, provides Login Authentication, User Management, Web Setting and User Profile build on CodeIgniter framework(version 3.1.10). You can add more modules as needed.
 
 # Feature List
 - Built with CodeIgniter 3.1.10
